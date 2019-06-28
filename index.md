@@ -5,3 +5,4 @@ You will find the following information here:
   * CS HU 250
   * CS 321
 * Personal Projects by Brendon
+* Pictures of Sloths... actually you'll only find pictures of Sloths.
